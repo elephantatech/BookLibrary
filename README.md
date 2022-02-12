@@ -2,6 +2,22 @@
 
 This is a simple book library application with separate front end and backend for easy deployment to docker.
 
+## Design
+
+[Backend Design]("./Backend-Design.md") - Design details of the backend data model
+API Design - Pending
+Front-end Design - Pending
+
+## TODO
+
+- Back-end Code
+- API Design
+- Front-End Design
+
+## Contributors
+
+Elephantech
+
 ## License
 
 Copyright 2022 elephantatech
