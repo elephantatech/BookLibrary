@@ -4,31 +4,15 @@ This is a simple book library application with separate front end and backend fo
 
 ## Design
 
-Backend data we need is as follows
+[Backend Design]("./Backend-Design.md") - Design details of the backend data model
+API Design - Pending
+Front-end Design - Pending
 
-Books
-    - Title
-    - Author
-    - ISDN Number
-    - Published Date
-    - Edition
-    - Synopsis
+## TODO
 
-Person (borrower)
-    - First Name
-    - Last Name
-    - Phone
-    - Email
-    - Addresss
-
-Loaning
-    - Person
-    - Book
-    - Date loaned
-    - Date Due
-
-
-
+- Back-end Code
+- API Design
+- Front-End Design
 
 ## Contributors
 
