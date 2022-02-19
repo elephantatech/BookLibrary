@@ -4,9 +4,9 @@ This is a simple book library application with separate front end and backend fo
 
 ## Design
 
-[Backend Design]("./Backend-Design.md") - Design details of the backend data model
-API Design - Pending
-Front-end Design - Pending
+- [Backend Design]("Backend-Design.md") - Design details of the backend data model
+- API Design - Pending
+- Front-end Design - Pending
 
 ## TODO
 
