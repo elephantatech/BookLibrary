@@ -8,6 +8,10 @@ This is a simple book library application with separate front end and backend fo
 - API Design - Pending
 - Front-end Design - Pending
 
+## Testing Docs
+
+See [Testing Docs]("Testing.md") for information on unit testing
+
 ## TODO
 
 - Back-end Code
