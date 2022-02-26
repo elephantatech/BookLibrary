@@ -1,3 +1,4 @@
+from distutils.debug import DEBUG
 from functools import lru_cache
 
 from pydantic import BaseSettings
@@ -14,6 +15,7 @@ class Settings(BaseSettings):
     sql_database_user: str = "postgres"
     sql_database_password: str = "postgres"
     env: str = "DEV"
+    log_level = "DEBUG"
 
     class Config:
         env_file = ".env"
